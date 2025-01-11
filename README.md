@@ -20,6 +20,7 @@ Some screenshots:
 A small video of the gameplay:
 -----------------
 https://github.com/user-attachments/assets/219c32ca-80ef-4e78-80a7-9675919537ce
+
 -----------------
 https://github.com/user-attachments/assets/a1ecca53-8fd8-4c16-9fc5-0418fe101bfc
 
