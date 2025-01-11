@@ -1,14 +1,15 @@
 # BeardWorld 🦸
 -----------------
-The application was developed as part of the study of the SpriteKit framework based on materials found on the Internet and YouTube.
-The spaceship has three lives, which decrease when the aliens reach the bottom of the phone screen.
-The spaceship is controlled by tilting the phone to the sides (left and right), fire is produced by pressing the ecarn.
-- studied adding scenes
-- framework
-- adding animation
-- adding sound effects
-- using the accelerometer
+This example of a mini game is created in Flutter.
+Works correctly on IOS, Android, MacOS and Chrome browser.
+- the map is developed in the Tiled program
+- work with collisions of the world, enemies and resources.
+- development of the logic of movement and the appearance of enemies, resources, taking into account collisions.
+- work with IOS/Android libraries
 
+APK file for Android:
+-----------------
+https://drive.google.com/file/d/1La3KYEDq_B8VxEyxjo8hXYDE6qtm_AhG/view?usp=share_link
 
 Some screenshots:
 -----------------
@@ -18,9 +19,9 @@ Some screenshots:
 
 A small video of the gameplay:
 -----------------
-https://github.com/user-attachments/assets/d7c2710c-68d3-4fc0-a20f-86c7a3eefc21 
-
+https://github.com/user-attachments/assets/219c32ca-80ef-4e78-80a7-9675919537ce
 -----------------
 https://github.com/user-attachments/assets/a1ecca53-8fd8-4c16-9fc5-0418fe101bfc
+
 
 
