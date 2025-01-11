@@ -18,6 +18,7 @@ Some screenshots:
 
 A small video of the gameplay:
 -----------------
-https://github.com/user-attachments/assets/d7c2710c-68d3-4fc0-a20f-86c7a3eefc21 https://github.com/user-attachments/assets/a1ecca53-8fd8-4c16-9fc5-0418fe101bfc
+https://github.com/user-attachments/assets/d7c2710c-68d3-4fc0-a20f-86c7a3eefc21 
+https://github.com/user-attachments/assets/a1ecca53-8fd8-4c16-9fc5-0418fe101bfc
 
 
