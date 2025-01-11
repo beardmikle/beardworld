@@ -1,0 +1,34 @@
+name: brdgame
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  audioplayers: ^6.1.0
+  flame: ^1.23.0
+  flutter:
+    sdk: flutter
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/
+  - assets/world_collision_map.json
+  - assets/world_tileset.json
+  - assets/images/player.png
+  - assets/images/coins-40x40.png
+  - assets/images/crystal-50x71.png
+  - assets/images/background_main_menu.png
+  - assets/tracks/
+  - assets/tracks/track1.m4a
+  - assets/tracks/track2.m4a
+  

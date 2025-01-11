@@ -1,0 +1,54 @@
+{
+       "objects": [
+         {
+           "height": 63.66,
+           "id": 1,
+           "name": "",
+           "rotation": 0,
+           "type": "",
+           "visible": true,
+           "width": 2401.32,
+           "x": 0.00,
+           "y": 0.00
+         },
+         {
+           "height": 693.91,
+           "id": 2,
+           "name": "",
+           "rotation": 0,
+           "type": "",
+           "visible": true,
+           "width": 678.64,
+           "x": 1261.78,
+           "y": 297.94
+         },
+         {
+           "height": 701.55,
+           "id": 4,
+           "name": "",
+           "rotation": 0,
+           "type": "",
+           "visible": true,
+           "width": 690.09,
+           "x": 1250.32,
+           "y": 290.30
+         },
+         {
+           "height": 0.00,
+           "id": 5,
+           "name": "",
+           "rotation": 0,
+           "type": "",
+           "visible": true,
+           "width": 0.00,
+           "x": 1723.96,
+           "y": 672.27
+         }
+       ],
+       "opacity": 1,
+       "type": "objectgroup",
+       "visible": true,
+       "x": 0,
+       "y": 0
+     }
+     
